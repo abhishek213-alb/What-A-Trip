@@ -1,7 +1,7 @@
 # What-A-Trip
 
 ## Inspiration
-There are many people who like games and play Super Mario. It is childhood game of many people. A lot of them dream of traveling or being able to interact with Super Mario characters. That dream is no longer far since we have SUPER NINTENDO WORLD in Japan. 
+There are many people who like games and play Super Mario. It' childhood dream game of many people. A lot of them dream of traveling or being able to interact with Super Mario characters. That dream is no longer far since we have SUPER NINTENDO WORLD in Japan. 
 
 With that, we hope to build a site that offers people traveling trip, road side assistance,  and our special traveling package offer to Super Nintendo World in Japan. Are you a gamer ? Have you played Super Mario when you were small? Do you have a dream to travel to the real Super Mario World to fulfill your childhood dream? Then you should definitely visit our site "What a Trip". 
 
